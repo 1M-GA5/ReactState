@@ -91,7 +91,7 @@ const ExpenseForm = (props) => {
         <button type='submit'>Add Expense</button>
       </div>
     </form>
-  );
+  ); 
 };
 
 export default ExpenseForm;
